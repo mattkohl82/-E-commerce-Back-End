@@ -4,7 +4,8 @@
 <img src="https://img.shields.io/badge/Javascript-brightgreen"/>
 <img src="https://img.shields.io/badge/Mysql-red"/>
 <img src="https://img.shields.io/badge/Node.js-success"/>
-<img src="https://img.shields.io/badge/Sequelize-blue"/>
+<img src="https://img.shields.io/badge/Sequelize-blue"/>  
+<img src="https://img.shields.io/badge/Insomnia-orange"/>
 </p>
 
 ## Table of Contents
@@ -48,7 +49,7 @@ npm start
 [Demo of application](https://youtu.be/khJC6AbcnTo) 
   
 
-### Screen shot of tables in the application
+### Screen shot GIFs of the different GET, PUSH, PUT, and DELETE requests made in the Insomnia.
 
 ![GIF of Categories](https://media.giphy.com/media/hW9gNZAn724SDWYZbH/giphy.gif)  
 
